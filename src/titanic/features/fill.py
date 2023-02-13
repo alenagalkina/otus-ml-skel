@@ -1,7 +1,6 @@
 import pandas
 from sklearn.impute import SimpleImputer
 
-
 __all__ = ["embarked_imputer", "fill_embarked"]
 
 

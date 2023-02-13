@@ -1,7 +1,7 @@
+import logging
 import os
 from typing import Optional
 from urllib.request import urlopen
-import logging
 
 import pandas
 
